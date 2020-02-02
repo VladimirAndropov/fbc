@@ -26,5 +26,5 @@
 > Скрипты написаны вспешке, т.к. я обратился в ФБК с проблемой о коррупции, и немного отвлекся, поэтому у вас ещё есть шанс их переделать и откликнуться на вакансию
 
 Ссылки:<BR>
-[Я на GitHub](https://github.com/VladimirAndropov)<BR>
+[Для ругательств](https://github.com/VladimirAndropov/fbc/pulls)<BR>
 [вакансия](https://fbk.info/blog/post/533/)
