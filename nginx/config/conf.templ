@@ -1,0 +1,19 @@
+
+server {
+  listen 80;
+  server_name fbc.ru;
+
+    root /var/www/html;
+
+    location / {
+        # logging in from specific IPs grants acces without HBA login
+        satisfy any;
+        allow all;
+
+        limit_except GET {
+            # block does not inherit the access limitations from above
+            deny all;
+        }
+
+    }
+}
