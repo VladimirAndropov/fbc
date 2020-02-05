@@ -16,8 +16,8 @@ headers = {
     'content-type': "multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW",
     'grant_type': "client_credentials",
     'token_type': "JWT",
-    'client_id': "lms-key",
-    'client_secret': "lms-secret",
+    'client_id': "***",
+    'client_secret': "***",
     'cache-control': "no-cache",
     'postman-token': "801a50dc-f49d-70de-6ca6-bf7fdd373482"
     }
